@@ -1,5 +1,6 @@
 # \<hack-psu-logo\>
 
+![Image](screenshot.png)
 
 
 ## Install the Polymer-CLI
